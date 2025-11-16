@@ -4,9 +4,6 @@
 There are several guides for SCL developers and users. These guides can be found
 in a number of formats and places such as Youtube or the Orginal github repo.
 
-There are various text files in the Documentation/ subdirectory,
-several of them using the reStructuredText markup notation.
-
 Please read the [https://github.com/darkresident55/Soft-Chimp-Locomotion], as it contains the
 documentation for using and running the SCL system, and information about
 the problems which may occur. although any issure that come up using this fork should not and will
